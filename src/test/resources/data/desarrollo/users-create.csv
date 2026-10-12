@@ -1,0 +1,2 @@
+description,name,username,email,password,documentNumber,cardNumber,expectedStatus
+Alta usuario valido,Juan Perez,jperez,jperez@example.com,Secreto123!,12345678,4111111111111111,201

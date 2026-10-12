@@ -1,0 +1,3 @@
+description,userId,expectedStatus,expectedName,expectedUsername
+Usuario existente 1,1,200,Leanne Graham,Bret
+Usuario existente 2,2,200,Ervin Howell,Antonette

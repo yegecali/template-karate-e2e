@@ -1,0 +1,2 @@
+description,userId,expectedStatus
+Usuario inexistente,8888,404

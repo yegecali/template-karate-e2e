@@ -1,0 +1,2 @@
+description,name,username,email,password,documentNumber,cardNumber,expectedStatus
+Alta usuario valido,Maria Lopez,mlopez,mlopez@example.com,ClaveSegura456!,87654321,5500000000000004,201
